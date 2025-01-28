@@ -1,5 +1,5 @@
 # fiber-tracking
-Individual fiber separation from tomography images
+Individual fiber separation from tomography images (see https://doi.org/10.1016/j.commatsci.2024.113372)
 
 Reguired libraries
 * Skan (https://skeleton-analysis.org)
